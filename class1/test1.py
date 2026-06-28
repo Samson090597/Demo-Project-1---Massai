@@ -1,3 +1,5 @@
 print ("First gitHub Repo")
 print ("Samson")
 print("I can do anything with the grace of GOD")
+print("Sucess 1")
+print ("Success 2")
